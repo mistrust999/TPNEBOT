@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how **\TPNEBOT** (“the Bot,” “we,” or “us”) collects, uses, stores, and deletes personal data when you interact with our Discord bot. By using the Bot, you consent to the collection and use of information in accordance with this policy.
+This Privacy Policy explains how **TPNEBOT** (“the Bot,” “we,” or “us”) collects, uses, stores, and deletes personal data when you interact with our Discord bot. By using the Bot, you consent to the collection and use of information in accordance with this policy.
 
 ## 2. Data We Collect
 
@@ -14,8 +14,9 @@ This Privacy Policy explains how **\TPNEBOT** (“the Bot,” “we,” or “us
   Depending on command usage, we may persist:
 
   * Economy data (wallet ID, bank balance, transaction history)
+  * Last.fm usernames (user supplied)
   * Punishment history (bans, kicks, mutes)
-  * Command preferences or settings (e.g., custom prefixes, opt-in flags)
+  * Command preferences or settings (e.g., custom prefixes, embed colors)
 * **Temporary In-Memory Data**
   Some features (e.g., the `snipe` command that shows recently deleted messages) rely on data kept in RAM only. That data is automatically purged every hour and is not written to disk.
 
